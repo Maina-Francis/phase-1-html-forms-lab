@@ -5,6 +5,23 @@ form * {
 }
 
 #checkbox {
-  display:inline;
+  display: inline;
+  width: 15px;
+}
 
+div {
+  display: flex;
+  flex-direction: row;
+}
+
+p {
+  width: auto;
+}
+
+input {
+  width: 50%;
+}
+
+textarea {
+  width: 50%;
 }
